@@ -1,6 +1,11 @@
 ![99](https://github.com/dino-21/STEP3_spring_View/assets/80396471/d3575d76-f126-49ab-8a49-9766fbe62612)
 
+![9](https://github.com/dino-21/STEP3_spring_View/assets/80396471/b478a5d8-90b7-4594-88d1-13ca0174bd96)
 
+![10](https://github.com/dino-21/STEP3_spring_View/assets/80396471/c4f360d2-2013-40e5-be1a-7b26aa8ea000)
+
+
+![4](https://github.com/dino-21/STEP3_spring_View/assets/80396471/183cf0c5-a64d-4016-ad7f-fe41b09e39ea)
 
 
 1. SB Admin2 부트스크랩 압축풀고 
